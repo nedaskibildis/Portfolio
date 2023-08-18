@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dafec438.css",
-    "main.js": "/portfolio/static/js/main.b60def94.js",
+    "main.js": "/portfolio/static/js/main.c15ce0ec.js",
     "static/media/LilGrotesk-Bold.otf": "/portfolio/static/media/LilGrotesk-Bold.17a888b6c01df114d404.otf",
     "static/media/LilGrotesk-Regular.otf": "/portfolio/static/media/LilGrotesk-Regular.997b245d543c6da0d4da.otf",
     "index.html": "/portfolio/index.html",
     "main.dafec438.css.map": "/portfolio/static/css/main.dafec438.css.map",
-    "main.b60def94.js.map": "/portfolio/static/js/main.b60def94.js.map"
+    "main.c15ce0ec.js.map": "/portfolio/static/js/main.c15ce0ec.js.map"
   },
   "entrypoints": [
     "static/css/main.dafec438.css",
-    "static/js/main.b60def94.js"
+    "static/js/main.c15ce0ec.js"
   ]
 }
